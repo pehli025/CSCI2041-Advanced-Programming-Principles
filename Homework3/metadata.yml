@@ -1,0 +1,12 @@
+---
+:id: 52313986
+:submitters:
+- :name: Josh Pehling
+  :email: pehli025@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-29 16:35:51.869861000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-29 09:35:51.869861000 Z
+:status: processed
+:score: 100.0
